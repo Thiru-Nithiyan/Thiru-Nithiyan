@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thiru-Nithiyan
 - 👀 I’m interested in Cloud Computing + Containrised Platforms
-- 🌱 I’m currently learning Computer Engineering as a first-year student in NTU Singapore
+- 🌱 I’m currently learning Computer Engineering as a 2nd-year student in NTU Singapore
 - 📫 How to reach me Gmail: Thirunithiyan@gmmail.com
 
 <!---
